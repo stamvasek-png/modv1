@@ -1,0 +1,4 @@
+# Sem nahraj soubory z model_tuned.zip:
+# tuned_reg_h1.json, tuned_reg_h2.json, tuned_reg_h3.json, tuned_reg_h4.json
+# tuned_clf_h1.json, tuned_clf_h2.json, tuned_clf_h3.json, tuned_clf_h4.json
+# feature_cols.json
